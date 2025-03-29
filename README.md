@@ -1,7 +1,3 @@
-Here’s a clean, interactive, and visually appealing **GitHub README** design for you, inspired by [ruppysuppy](https://github.com/ruppysuppy), while showcasing your skill set:
-
----
-
 ## 🚀 **Krishna Gera | UI/UX Designer | Full Stack Developer**
 
 ```yaml
@@ -44,8 +40,8 @@ Here’s a clean, interactive, and visually appealing **GitHub README** design f
 ### 📊 **GitHub Stats & Contributions**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishnagera&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnagera&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=krishna-gera&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishna-gera&theme=radical" height="180" />
 </p>
 
 ---
