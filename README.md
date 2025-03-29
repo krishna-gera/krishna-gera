@@ -14,7 +14,7 @@
 
 - 🎓 B.Tech CSE @ **UPES**
 - 🔥 Passionate about **UI/UX Design**, Full Stack Development & building **Web3 Apps**
-- 📝 Songwriter & Tech Content Creator
+- 📝 Songwriter & Tech Creator
 - 🕹️ Exploring Game Dev & Cinematic Storytelling
 - 📷 Sharing photography on [Instagram](https://www.instagram.com/filmsbykrishna)
 
@@ -48,10 +48,10 @@
 
 ### 🚩 **Top Projects**
 
-- 🌐 [Portfolio Website](https://github.com/krishnagera/portfolio)
-- 🔥 [React Task Manager](https://github.com/krishnagera/task-manager)
-- 🎮 [Web3 DApp](https://github.com/krishnagera/web3-dapp)
-- 🎨 [Figma UI Templates](https://github.com/krishnagera/figma-ui)
+- 🌐 [Portfolio Website](https://github.com/krishna-gera/portfolio)
+- 🔥 [React Task Manager](https://github.com/krishna-gera/task-manager)
+- 🎮 [Web3 DApp](https://github.com/krishna-gera/web3-dapp)
+- 🎨 [Figma UI Templates](https://github.com/krishna-gera/figma-ui)
 
 ---
 
