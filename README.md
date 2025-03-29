@@ -20,7 +20,7 @@ Here’s a clean, interactive, and visually appealing **GitHub README** design f
 - 🔥 Passionate about **UI/UX Design**, Full Stack Development & building **Web3 Apps**
 - 📝 Songwriter & Tech Content Creator
 - 🕹️ Exploring Game Dev & Cinematic Storytelling
-- 📷 Sharing photography on [Instagram](https://www.instagram.com/your_username)
+- 📷 Sharing photography on [Instagram](https://www.instagram.com/filmsbykrishna)
 
 ---
 
@@ -85,7 +85,7 @@ Here’s a clean, interactive, and visually appealing **GitHub README** design f
 ### 🎯 **Profile Visitors**
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=krishnagera&label=Profile%20Views&color=0e75b6&style=flat" alt="krishnagera" />
+  <img src="https://komarev.com/ghpvc/?username=krishna-gera&label=Profile%20Views&color=0e75b6&style=flat" alt="krishna-gera" />
 </p>
 
 ---
