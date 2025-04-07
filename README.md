@@ -95,14 +95,3 @@
 💡 *"Building the future, one project at a time!"* 🚀
 
 ---
-
-## 📄 **To-Do List for Final Setup**
-
-✅ Add Profile Visitor Counter  
-✅ Enable GitHub Actions for Stats  
-✅ Host Project Demos on Netlify  
-✅ Link Socials & Portfolio  
-
----
-
-Want me to generate the **Markdown code** or any changes? 🤔
