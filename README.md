@@ -42,9 +42,7 @@
 
 ### 🚩 **Top Projects**
 
-- 🌐 [Portfolio Website](https://github.com/krishna-gera/portfolio)
-- 🔥 [React Task Manager](https://github.com/krishna-gera/task-manager)
-- 🎮 [Web3 DApp](https://github.com/krishna-gera/web3-dapp)
+- 🌐 [Portfolio Website](https://krishnagera.dev)
 - 🎨 [Figma UI Templates](https://github.com/krishna-gera/figma-ui)
 
 ---
@@ -52,13 +50,13 @@
 ### 📫 **Connect with Me**
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/krishnagera/">
+  <a href="https://www.linkedin.com/in/krishna-gera/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/your_username/">
+  <a href="https://www.instagram.com/krishnagera_/">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:krishnagera@gmail.com">
+  <a href="mailto:krishnagera.work@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -68,7 +66,7 @@
 ### 📝 **Latest Blogs/Updates**
 
 - 🔗 [28 Days, 28 Projects](https://github.com/krishnagera/28-days-28-projects)
-- 📢 [UI/UX Tips for Beginners](https://krishnagera.medium.com)
+<!--- 📢 [UI/UX Tips for Beginners](https://krishnagera.medium.com) -->
 
 ---
 
