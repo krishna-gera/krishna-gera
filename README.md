@@ -37,9 +37,6 @@
 
 ---
 
-
----
-
 ### 🚩 **Top Projects**
 
 - 🌐 [Portfolio Website](https://krishnagera.dev)
